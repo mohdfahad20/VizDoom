@@ -1,23 +1,29 @@
 # Gaming Through Reinforcement Learning
 
-Description:
-This project is an adaptive game powered by the Proximal Policy Optimization (PPO) algorithm. The AI agent learns and evolves with player strategies, offering an immersive and challenging experience. The game features a user-friendly interface built using HTML, CSS, and JavaScript.
+<h2>Description</h2>
+<p>
+This project is an adaptive game powered by the <strong>Proximal Policy Optimization (PPO)</strong> algorithm. The AI agent learns and evolves with player strategies, offering an immersive and challenging experience. The game features a user-friendly interface built using <strong>HTML, CSS, and JavaScript</strong>.
+</p>
 
-Features:
-<br>Adaptive AI that learns and improves with continuous gameplay.</br>
-<br>User interface designed for simplicity and engagement.</br>
-<br>Developed entirely using PPO for optimized performance and agent behavior.</br>
+<h2>Features</h2>
+<ul>
+  <li>Adaptive AI that learns and improves with continuous gameplay.</li>
+  <li>User interface designed for simplicity and engagement.</li>
+  <li>Developed entirely using PPO for optimized performance and agent behavior.</li>
+</ul>
 
-Screenshot:
+<h2>Screenshot</h2>
 
 
+<h2>Key Takeaways</h2>
+<ul>
+  <li>Demonstrates the effective use of PPO in game environments.</li>
+  <li>Highlights the potential of AI to adapt dynamically to player behavior.</li>
+</ul>
 
-Key Takeaways:
-<br>Demonstrates the effective use of PPO in game environments.</br>
-<br>Highlights the potential of AI to adapt dynamically to player behavior.</br>
-
-Tech Stack:
-<br>Programming Languages: Python</br>
-<br>Web Development: HTML, CSS, JavaScript</br>
-<br>Libraries: TensorFlow, OpenAI Gym</br>
-<br>Algorithm: Proximal Policy Optimization (PPO)</br>
+<h2>Tech Stack</h2>
+<ul>
+  <li><strong>Programming Languages</strong>: Python, JavaScript, HTML, CSS</li>
+  <li><strong>Libraries</strong>: TensorFlow, OpenAI Gym</li>
+  <li><strong>Algorithm</strong>: Proximal Policy Optimization (PPO)</li>
+</ul>
